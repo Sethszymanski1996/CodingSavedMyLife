@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css?family=Abril+Fatface|Exo:400,500i');
+/* Color Palett
+  #0b0c10 : background
+  #1f2833 : Sub text
+  #c5c6c7 : ??
+  #66fcf1 : Highlight
+  #45a29e : hover
+  #c3073f : Red hover
+*/
+
+  body {
+      margin: 0;
+      padding: 0;
+      background: #0b0c10;
+      background-repeat: no-repeat;
+      background-size: cover;
+  }
+
+  .nav {
+      position: fixed;
+      background: rgba(102, 252, 241, .2);
+      width: 100%
+
+  }
+
+  .nav-logo {
+      color: #c3073f;
+      font-family: 'Abril Fatface', cursive;
+      text-decoration: none;
+      font-size: 25px;
+  }
